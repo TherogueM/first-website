@@ -1,0 +1,17 @@
+ul {
+    color: black;
+}
+ul li {
+    display: inline;
+    font-size: 60px;
+    }
+img {
+    float: left
+}
+body {
+    background-color: lightslategray
+}
+h1 {
+    color: black;
+    font-size: 250px;
+}
